@@ -36,7 +36,7 @@
 .hero-container {
     background: var(--dark-color);
     display: flex;
-    padding: 220px;
+    padding: 150px 220px;
 }
 .left {
     flex-basis: 80%;
