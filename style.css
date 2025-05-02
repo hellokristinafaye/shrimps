@@ -64,6 +64,11 @@
     padding: 40px;
 }
 
+.box-unit {
+    width: 151px;
+    text-align: center;
+    font-size: 16px;
+}
 .blue-box {
     height: 150px;
     width: 150px;
