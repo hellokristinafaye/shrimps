@@ -114,5 +114,7 @@
 .copyright-text {
     background: var(--dark-color);
     color: var(--bright-color);
-    
+    font-weight: 100;
+    padding: 30px 0;
+    text-align: center;
 }
