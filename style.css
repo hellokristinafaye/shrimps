@@ -68,7 +68,7 @@
     display: flex;
     justify-content: space-between;
     padding: 10px 455px;
-    
+    margin-bottom: 100px;
 }
 .box-unit {
     width: 151px;
