@@ -90,3 +90,10 @@
     padding: 150px 420px;
     background: var(--mid-color);
 }
+.hello {
+    font-size: 36px;
+    font-style: italic;
+}
+.thor {
+    font-style: bold;
+}
