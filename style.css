@@ -110,3 +110,9 @@
 .CTA-box button {
     border: 2px solid var(--bright-color);
 }
+
+.copyright-text {
+    background: var(--dark-color);
+    color: var(--bright-color);
+    
+}
