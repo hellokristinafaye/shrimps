@@ -26,3 +26,12 @@
     font-weight: 100;
     margin: 20px;
 }
+
+.hero {
+    color: var(--bright-color);
+}
+.hero-container {
+    background: var(--dark-color);
+    display: flex;
+    padding: 200px;
+}
