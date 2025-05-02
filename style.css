@@ -13,6 +13,10 @@
 .navbar {
     color: var(--bright-color);
     background: var(--dark-color);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
 }
 .nav-link {
     color: var(--bright-color);
