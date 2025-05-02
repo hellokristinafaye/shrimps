@@ -64,6 +64,12 @@
     padding: 40px;
 }
 
+.box-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 455px;
+    
+}
 .box-unit {
     width: 151px;
     text-align: center;
