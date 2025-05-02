@@ -58,3 +58,8 @@
     background: grey;
     padding: 100px 100px;
 }
+
+.info-title {
+    text-align: center;
+    padding: 40px;
+}
