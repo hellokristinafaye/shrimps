@@ -10,6 +10,9 @@
     --mid-color: #E5E7EB;
     --button-color: #3882F6;
 }
+* p {
+    font-weight: 100;
+}
 .navbar {
     color: var(--bright-color);
     background: var(--dark-color);
