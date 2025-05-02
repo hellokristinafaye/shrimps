@@ -98,3 +98,12 @@
     font-weight: 600;
     text-align: right;
 }
+
+.CTA-box {
+    background: var(--button-color);
+    display: flex;
+    padding: 60px 150px;
+    margin: 100px 200px;
+    border-radius: 10px;
+    color: var(--bright-color);
+}
