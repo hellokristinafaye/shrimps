@@ -17,6 +17,8 @@
     justify-content: space-around;
     align-items: center;
     padding: 20px 0;
+    position: sticky;
+    top: 0;
 }
 .nav-link {
     color: var(--bright-color);
