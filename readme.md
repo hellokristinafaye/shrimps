@@ -1,6 +1,12 @@
 Overview:
 
+- Static page for HTML, CSS and library practice.
+
 Technologies Used:
+
+- HTML
+- CSS
+- Google Fonts
 
 Features:
 
