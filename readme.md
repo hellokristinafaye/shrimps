@@ -12,6 +12,11 @@ Features:
 
 Notes:
 
+- took roughly 1 hr
+- found lots of ways to make it more efficient..
+  - leveraged more padding/margin, fewer containers, styled text elements w/ padding/margin for centering, etc.
+  - display: flex working great. justify-content: space-around also working great
+
 Challenges:
 
 Future Development:
