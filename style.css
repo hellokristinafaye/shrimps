@@ -43,4 +43,13 @@
 }
 .left p {
     color: var(--mid-color);
+    margin-top: 10px;
+}
+.sign-up {
+    background: var(--button-color);
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    margin-top: 10px;
 }
