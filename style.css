@@ -54,3 +54,7 @@
     outline: none;
     margin-top: 10px;
 }
+.img-place-holder {
+    background: grey;
+    padding: 100px 100px;
+}
